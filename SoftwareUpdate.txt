@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Improve Coral Edge TPU guide (#8160)
